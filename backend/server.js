@@ -15,5 +15,3 @@ app.listen(PORT, () => {
   connectDB();
   console.log(`Server is running on port ${PORT} HELLO`);
 });
-// longb1997
-// QdWP1WjGQNwJlYcx
